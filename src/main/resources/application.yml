@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demoElasticBeansTalk
+
+  profiles:
+    include: dev,local
+#    active: dev # ?? ???? ??(dev)
